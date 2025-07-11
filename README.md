@@ -43,13 +43,6 @@ The radar feature displays enemy positions on a mini-map. This allows you to pla
 - **Real-Time Updates**: Get instant updates on enemy movements.
 - **Customizable Map**: Adjust the radar settings to fit your gameplay style.
 
-### System Requirements
-
-- **Operating System**: Windows 10 or 11
-- **RAM**: Minimum 4 GB
-- **Processor**: Intel Core i3 or equivalent
-- **Graphics Card**: NVIDIA GeForce GTX 660 or equivalent
-
 ### Troubleshooting
 
 If you encounter any issues while using the Escape From Tarkov Medusa Hack, consider the following solutions:
@@ -88,6 +81,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Use this hack responsibly. Cheating can lead to bans, and we do not take responsibility for any actions taken against your account. Always play fair and respect the game and its community.
 
-### Conclusion
-
-For the latest updates and releases, visit our [Releases section](https://github.com/Yusuufff/Escape-From-Tarkov-Medusa-Undetected-Rage/releases). Enjoy your gaming experience with the Escape From Tarkov Medusa Hack!
